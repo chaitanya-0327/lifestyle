@@ -1,0 +1,86 @@
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.AssemblyInfoInputs.cache
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.AssemblyInfo.cs
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.csproj.CoreCompileInputs.cache
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.MvcApplicationPartsAssemblyInfo.cache
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.RazorAssemblyInfo.cache
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.RazorAssemblyInfo.cs
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\appsettings.Development.json
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\appsettings.json
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\Foodcore.staticwebassets.runtime.json
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\Foodcore.exe
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\Foodcore.deps.json
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\Foodcore.runtimeconfig.json
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\Foodcore.dll
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\ref\Foodcore.dll
+C:\batch 215\.net core\Foodcore\Foodcore\bin\Debug\net6.0\Foodcore.pdb
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\staticwebassets.build.json
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\staticwebassets.development.json
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\scopedcss\bundle\Foodcore.styles.css
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\scopedcss\projectbundle\Foodcore.bundle.scp.css
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.dll
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\ref\Foodcore.dll
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.pdb
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.genruntimeconfig.cache
+C:\batch 215\.net core\Foodcore\Foodcore\obj\Debug\net6.0\Foodcore.csproj.AssemblyReference.cache
+F:\netcore\Foodcore\bin\Debug\net6.0\appsettings.Development.json
+F:\netcore\Foodcore\bin\Debug\net6.0\appsettings.json
+F:\netcore\Foodcore\bin\Debug\net6.0\efpt.config.json
+F:\netcore\Foodcore\bin\Debug\net6.0\Foodcore.staticwebassets.runtime.json
+F:\netcore\Foodcore\bin\Debug\net6.0\Foodcore.exe
+F:\netcore\Foodcore\bin\Debug\net6.0\Foodcore.deps.json
+F:\netcore\Foodcore\bin\Debug\net6.0\Foodcore.runtimeconfig.json
+F:\netcore\Foodcore\bin\Debug\net6.0\Foodcore.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\ref\Foodcore.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Foodcore.pdb
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\netcore\Foodcore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.csproj.AssemblyReference.cache
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.GeneratedMSBuildEditorConfig.editorconfig
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.AssemblyInfoInputs.cache
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.AssemblyInfo.cs
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.csproj.CoreCompileInputs.cache
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.MvcApplicationPartsAssemblyInfo.cache
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.RazorAssemblyInfo.cache
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.RazorAssemblyInfo.cs
+F:\netcore\Foodcore\obj\Debug\net6.0\staticwebassets.build.json
+F:\netcore\Foodcore\obj\Debug\net6.0\staticwebassets.development.json
+F:\netcore\Foodcore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\netcore\Foodcore\obj\Debug\net6.0\scopedcss\bundle\Foodcore.styles.css
+F:\netcore\Foodcore\obj\Debug\net6.0\scopedcss\projectbundle\Foodcore.bundle.scp.css
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.csproj.CopyComplete
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.dll
+F:\netcore\Foodcore\obj\Debug\net6.0\ref\Foodcore.dll
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.pdb
+F:\netcore\Foodcore\obj\Debug\net6.0\Foodcore.genruntimeconfig.cache
